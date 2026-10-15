@@ -1,11 +1,23 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:38BDF8&height=180&section=header&text=kserksi&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Small%20tools.%20Curious%20ideas.&descSize=16&descAlignY=62" width="100%" alt="kserksi — Small tools. Curious ideas." />
+
 # Hey，我是 kserksi 👋
 
 在这里折腾自托管、图像处理和 Web 字体，偶尔也做点有趣的网页。  
 把想法写成代码，再慢慢打磨成顺手的小工具。
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1400&color=0D9488&center=true&vCenter=true&width=480&height=40&lines=Self-hosted+tools+%26+small+experiments;Images%2C+fonts+%26+curious+ideas;Learning+by+building" width="480" alt="Self-hosted tools and small experiments. Images, fonts and curious ideas. Learning by building." />
+
 Building self-hosted tools for images and web typography — one idea, one commit at a time.
 
-[项目 / Projects](#项目--projects) · [工具箱 / Toolbox](#工具箱--toolbox) · [打个招呼 / Say hi](#打个招呼--say-hi)
+[![Projects](https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](#项目--projects)
+[![Toolbox](https://img.shields.io/badge/Toolbox-0369A1?style=for-the-badge&logoColor=white)](#工具箱--toolbox)
+[![Say hi](https://img.shields.io/badge/Say_hi-334155?style=for-the-badge&logo=github&logoColor=white)](#打个招呼--say-hi)
+
+</div>
+
+---
 
 ## 项目 / Projects
 
@@ -46,15 +58,32 @@ A Blue Archive ASMR preview site. The existing project is archived, with a full 
 这些项目里用到的一些工具，按需取用，边做边学。  
 A few tools behind the projects — learning as I build.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-333333?style=flat&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-MySQL · Redis · SQLite · Docker
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 打个招呼 / Say hi
 
 发现了小问题，或者冒出了新点子？欢迎到对应项目的 Issues 聊聊 👀  
 Found a bug or have an idea? Drop by the project's issues — I'd love to hear it.
+
+---
+
+<p align="center">
+  <b>谢谢你来逛逛，愿你也有折腾代码的好心情 ✨</b><br />
+  <sub>Thanks for stopping by. Happy building!</sub>
+</p>
+
+<p align="center">
+  <sub>视觉参考：<a href="https://github.com/Jeysom-feng/jeysom-github-io">jeysom-github-io</a><br />
+  模板设计灵感来源：© Zephyr Zhong (<a href="https://github.com/zyh3699">https://github.com/zyh3699</a>)</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:38BDF8&height=85&section=footer" width="100%" alt="" />
