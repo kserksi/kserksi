@@ -57,29 +57,14 @@
 
 <sub>🚧 早期开发 / Early development</sub>
 
-围绕图像管理、处理与托管的新项目。还在打地基，慢慢把想法变成现实。
+summeRain 的轻量版，借鉴了其中部分构想，围绕图像管理、处理与托管继续打磨。还在打地基，慢慢把想法变成现实。
 
-*A new project for image management, processing, and hosting. Still laying the foundations.*
+*A lightweight version of summeRain, drawing on some of its ideas for a new image management, processing, and hosting project. Still laying the foundations.*
 
 <p>
   <img src="https://img.shields.io/badge/Go-334155?style=flat&amp;logo=go&amp;logoColor=00ADD8" height="20" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-334155?style=flat&amp;logo=rust&amp;logoColor=FFFFFF" height="20" alt="Rust" />
   <img src="https://img.shields.io/badge/SQLite-334155?style=flat&amp;logo=sqlite&amp;logoColor=7DD3FC" height="20" alt="SQLite" />
-</p>
-
-### 🎧 [AMSR-HTML](https://github.com/kserksi/AMSR-HTML)
-
-<sub>📦 已归档 · 计划完整重构 / Archived · Rebuild planned</sub>
-
-碧蓝档案 ASMR 预览网站。旧版本先收进作品架，计划后续来一次完整重构。
-
-*A Blue Archive ASMR preview site. The existing project is archived, with a full rebuild planned.*
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-334155?style=flat&amp;logo=html5&amp;logoColor=FF8A65" height="20" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-334155?style=flat&amp;logo=css&amp;logoColor=60A5FA" height="20" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-334155?style=flat&amp;logo=bootstrap&amp;logoColor=C4B5FD" height="20" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Plyr-334155?style=flat" height="20" alt="Plyr" />
 </p>
 
 <a name="toolbox"></a>
