@@ -1,53 +1,60 @@
-# 你好，我是 kserksi
+# Hey，我是 kserksi 👋
 
-自托管服务 · 图像处理 · Web 字体工具
+在这里折腾自托管、图像处理和 Web 字体，偶尔也做点有趣的网页。  
+把想法写成代码，再慢慢打磨成顺手的小工具。
 
-I build self-hosted services and tools for images and web typography.
+Building self-hosted tools for images and web typography — one idea, one commit at a time.
 
-[项目 / Projects](#项目--projects) · [技术 / Stack](#技术--stack) · [交流 / Feedback](#交流--feedback)
+[项目 / Projects](#项目--projects) · [工具箱 / Toolbox](#工具箱--toolbox) · [打个招呼 / Say hi](#打个招呼--say-hi)
 
 ## 项目 / Projects
 
-### [summeRain](https://github.com/kserksi/summeRain)
+### 🌦️ [summeRain](https://github.com/kserksi/summeRain)
 
-自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 仍处于早期发布阶段。
+给图片找个自己的家。自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 还在早期迭代中。
 
-A self-hosted image hosting and photo album service with browser-side image processing, watermarking, and private sharing. V2 is an early release.
+A home for your images: self-hosted albums, browser-side processing, watermarks, and private sharing. V2 is still an early release.
 
 `Go` · `React` · `TypeScript` · `MySQL` · `Redis`
 
-### [Klyph](https://github.com/kserksi/klyph)
+### 🔤 [Klyph](https://github.com/kserksi/klyph)
 
-按需生成 WOFF2 字体子集的自托管服务，提供版本化 API、浏览器 SDK 和不可变缓存。
+字体那么大，先带上用得到的字。按需生成 WOFF2 字体子集，配上 API、浏览器 SDK 和缓存，让 Web 字体轻装上阵。
 
-A self-hosted web-font subsetting service with a versioned API, browser SDK, and immutable WOFF2 caching.
+Only the glyphs you need. A self-hosted WOFF2 subsetting service with an API, browser SDK, and immutable caching.
 
 `Python` · `FastAPI` · `FontTools`
 
-### [Pebril](https://github.com/kserksi/Pebril)
+### 🛠️ [Pebril](https://github.com/kserksi/Pebril) · 早期开发 / Early development
 
-面向图像管理、处理与托管的 Go / Rust 项目，目前处于早期开发阶段。
+围绕图像管理、处理与托管的新项目。还在打地基，慢慢把想法变成现实。
 
-A Go / Rust project for image management, processing, and hosting, currently in early development.
+A new project for image management, processing, and hosting. Still laying the foundations.
 
 `Go` · `Rust` · `SQLite`
 
-### [AMSR-HTML](https://github.com/kserksi/AMSR-HTML) · 归档 / Archived
+### 🎧 [AMSR-HTML](https://github.com/kserksi/AMSR-HTML) · 已归档 / Archived
 
-碧蓝档案 ASMR 预览网站，使用 Bootstrap 与 Plyr。项目已归档，计划后续进行完整重构。
+碧蓝档案 ASMR 预览网站。旧版本先收进作品架，计划后续来一次完整重构。
 
-A Blue Archive ASMR preview site built with Bootstrap and Plyr. Archived, with a full project rebuild planned.
+A Blue Archive ASMR preview site. The existing project is archived, with a full rebuild planned.
 
-## 技术 / Stack
+`HTML` · `CSS` · `Bootstrap` · `Plyr`
 
-项目中使用的技术 / Technologies used across these projects:
+## 工具箱 / Toolbox
 
-**Backend:** Go · Python · Rust  
-**Web:** React · TypeScript · Bootstrap  
-**Data & deployment:** MySQL · Redis · SQLite · Docker
+这些项目里用到的一些工具，按需取用，边做边学。  
+A few tools behind the projects — learning as I build.
 
-## 交流 / Feedback
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-333333?style=flat&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-使用问题与改进建议，欢迎在对应项目的 Issues 中交流。安全问题请遵循项目的安全报告说明。
+MySQL · Redis · SQLite · Docker
 
-For questions and suggestions, open an issue in the relevant repository. Please follow the project's security reporting guidance for vulnerabilities.
+## 打个招呼 / Say hi
+
+发现了小问题，或者冒出了新点子？欢迎到对应项目的 Issues 聊聊 👀  
+Found a bug or have an idea? Drop by the project's issues — I'd love to hear it.
