@@ -13,10 +13,12 @@
 
 <p align="center"><i>Building self-hosted tools for images and web typography — one idea, one commit at a time.</i></p>
 
-[![Projects](https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](#projects)
-[![Toolbox](https://img.shields.io/badge/Toolbox-0369A1?style=for-the-badge&logoColor=white)](#toolbox)
-[![Activity](https://img.shields.io/badge/Activity-0D9488?style=for-the-badge&logo=github&logoColor=white)](#activity)
-[![Say hi](https://img.shields.io/badge/Say_hi-334155?style=for-the-badge&logo=github&logoColor=white)](#say-hi)
+<p align="center">
+  <a href="#projects">项目 / Projects</a> &nbsp;·&nbsp;
+  <a href="#toolbox">工具箱 / Toolbox</a> &nbsp;·&nbsp;
+  <a href="#activity">贡献 / Activity</a> &nbsp;·&nbsp;
+  <a href="#say-hi">交流 / Say hi</a>
+</p>
 
 </div>
 
@@ -27,19 +29,29 @@
 
 ### 🌦️ [summeRain](https://github.com/kserksi/summeRain)
 
-**给图片找个自己的家。**自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 还在早期迭代中。
+<strong>给图片找个自己的家。</strong>自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 还在早期迭代中。
 
 *A home for your images: self-hosted albums, browser-side processing, watermarks, and private sharing. V2 is still an early release.*
 
-<sub>Go · React · TypeScript · MySQL · Redis</sub>
+<p>
+  <img src="https://img.shields.io/badge/Go-334155?style=flat&amp;logo=go&amp;logoColor=00ADD8" height="20" alt="Go" />
+  <img src="https://img.shields.io/badge/React-334155?style=flat&amp;logo=react&amp;logoColor=61DAFB" height="20" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-334155?style=flat&amp;logo=typescript&amp;logoColor=60A5FA" height="20" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-334155?style=flat&amp;logo=mysql&amp;logoColor=F0B869" height="20" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-334155?style=flat&amp;logo=redis&amp;logoColor=FF6B6B" height="20" alt="Redis" />
+</p>
 
 ### 🔤 [Klyph](https://github.com/kserksi/klyph)
 
-**字体那么大，先带上用得到的字。**按需生成 WOFF2 字体子集，配上 API、浏览器 SDK 和缓存，让 Web 字体轻装上阵。
+<strong>字体那么大，先带上用得到的字。</strong>按需生成 WOFF2 字体子集，配上 API、浏览器 SDK 和缓存，让 Web 字体轻装上阵。
 
 *Only the glyphs you need. A self-hosted WOFF2 subsetting service with an API, browser SDK, and immutable caching.*
 
-<sub>Python · FastAPI · FontTools</sub>
+<p>
+  <img src="https://img.shields.io/badge/Python-334155?style=flat&amp;logo=python&amp;logoColor=FFD43B" height="20" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-334155?style=flat&amp;logo=fastapi&amp;logoColor=34D399" height="20" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FontTools-334155?style=flat" height="20" alt="FontTools" />
+</p>
 
 ### 🛠️ [Pebril](https://github.com/kserksi/Pebril)
 
@@ -49,7 +61,11 @@
 
 *A new project for image management, processing, and hosting. Still laying the foundations.*
 
-<sub>Go · Rust · SQLite</sub>
+<p>
+  <img src="https://img.shields.io/badge/Go-334155?style=flat&amp;logo=go&amp;logoColor=00ADD8" height="20" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-334155?style=flat&amp;logo=rust&amp;logoColor=FFFFFF" height="20" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQLite-334155?style=flat&amp;logo=sqlite&amp;logoColor=7DD3FC" height="20" alt="SQLite" />
+</p>
 
 ### 🎧 [AMSR-HTML](https://github.com/kserksi/AMSR-HTML)
 
@@ -59,7 +75,12 @@
 
 *A Blue Archive ASMR preview site. The existing project is archived, with a full rebuild planned.*
 
-<sub>HTML · CSS · Bootstrap · Plyr</sub>
+<p>
+  <img src="https://img.shields.io/badge/HTML-334155?style=flat&amp;logo=html5&amp;logoColor=FF8A65" height="20" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-334155?style=flat&amp;logo=css&amp;logoColor=60A5FA" height="20" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-334155?style=flat&amp;logo=bootstrap&amp;logoColor=C4B5FD" height="20" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Plyr-334155?style=flat" height="20" alt="Plyr" />
+</p>
 
 <a name="toolbox"></a>
 <h2 align="center">工具箱 / Toolbox</h2>
