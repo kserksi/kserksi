@@ -2,62 +2,72 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:38BDF8&height=180&section=header&text=kserksi&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Small%20tools.%20Curious%20ideas.&descSize=16&descAlignY=62" width="100%" alt="kserksi — Small tools. Curious ideas." />
 
-# Hey，我是 kserksi 👋
+<h1 align="center">Hey，我是 kserksi 👋</h1>
 
-在这里折腾自托管、图像处理和 Web 字体，偶尔也做点有趣的网页。  
-把想法写成代码，再慢慢打磨成顺手的小工具。
+<p align="center">
+  <b>自托管 · 图像处理 · Web 字体</b><br />
+  偶尔也做点有趣的网页，把想法慢慢打磨成顺手的小工具。
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1400&color=0D9488&center=true&vCenter=true&width=480&height=40&lines=Self-hosted+tools+%26+small+experiments;Images%2C+fonts+%26+curious+ideas;Learning+by+building" width="480" alt="Self-hosted tools and small experiments. Images, fonts and curious ideas. Learning by building." />
 
-Building self-hosted tools for images and web typography — one idea, one commit at a time.
+<p align="center"><i>Building self-hosted tools for images and web typography — one idea, one commit at a time.</i></p>
 
-[![Projects](https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](#项目--projects)
-[![Toolbox](https://img.shields.io/badge/Toolbox-0369A1?style=for-the-badge&logoColor=white)](#工具箱--toolbox)
-[![Activity](https://img.shields.io/badge/Activity-0D9488?style=for-the-badge&logo=github&logoColor=white)](#贡献记录--activity)
-[![Say hi](https://img.shields.io/badge/Say_hi-334155?style=for-the-badge&logo=github&logoColor=white)](#打个招呼--say-hi)
+[![Projects](https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](#projects)
+[![Toolbox](https://img.shields.io/badge/Toolbox-0369A1?style=for-the-badge&logoColor=white)](#toolbox)
+[![Activity](https://img.shields.io/badge/Activity-0D9488?style=for-the-badge&logo=github&logoColor=white)](#activity)
+[![Say hi](https://img.shields.io/badge/Say_hi-334155?style=for-the-badge&logo=github&logoColor=white)](#say-hi)
 
 </div>
 
 ---
 
-## 项目 / Projects
+<a name="projects"></a>
+<h2 align="center">项目 / Projects</h2>
 
 ### 🌦️ [summeRain](https://github.com/kserksi/summeRain)
 
-给图片找个自己的家。自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 还在早期迭代中。
+**给图片找个自己的家。**自托管图床与相册，支持浏览器端图像处理、水印和私密分享。V2 还在早期迭代中。
 
-A home for your images: self-hosted albums, browser-side processing, watermarks, and private sharing. V2 is still an early release.
+*A home for your images: self-hosted albums, browser-side processing, watermarks, and private sharing. V2 is still an early release.*
 
-`Go` · `React` · `TypeScript` · `MySQL` · `Redis`
+<sub>Go · React · TypeScript · MySQL · Redis</sub>
 
 ### 🔤 [Klyph](https://github.com/kserksi/klyph)
 
-字体那么大，先带上用得到的字。按需生成 WOFF2 字体子集，配上 API、浏览器 SDK 和缓存，让 Web 字体轻装上阵。
+**字体那么大，先带上用得到的字。**按需生成 WOFF2 字体子集，配上 API、浏览器 SDK 和缓存，让 Web 字体轻装上阵。
 
-Only the glyphs you need. A self-hosted WOFF2 subsetting service with an API, browser SDK, and immutable caching.
+*Only the glyphs you need. A self-hosted WOFF2 subsetting service with an API, browser SDK, and immutable caching.*
 
-`Python` · `FastAPI` · `FontTools`
+<sub>Python · FastAPI · FontTools</sub>
 
-### 🛠️ [Pebril](https://github.com/kserksi/Pebril) · 早期开发 / Early development
+### 🛠️ [Pebril](https://github.com/kserksi/Pebril)
+
+<sub>🚧 早期开发 / Early development</sub>
 
 围绕图像管理、处理与托管的新项目。还在打地基，慢慢把想法变成现实。
 
-A new project for image management, processing, and hosting. Still laying the foundations.
+*A new project for image management, processing, and hosting. Still laying the foundations.*
 
-`Go` · `Rust` · `SQLite`
+<sub>Go · Rust · SQLite</sub>
 
-### 🎧 [AMSR-HTML](https://github.com/kserksi/AMSR-HTML) · 已归档 / Archived
+### 🎧 [AMSR-HTML](https://github.com/kserksi/AMSR-HTML)
+
+<sub>📦 已归档 · 计划完整重构 / Archived · Rebuild planned</sub>
 
 碧蓝档案 ASMR 预览网站。旧版本先收进作品架，计划后续来一次完整重构。
 
-A Blue Archive ASMR preview site. The existing project is archived, with a full rebuild planned.
+*A Blue Archive ASMR preview site. The existing project is archived, with a full rebuild planned.*
 
-`HTML` · `CSS` · `Bootstrap` · `Plyr`
+<sub>HTML · CSS · Bootstrap · Plyr</sub>
 
-## 工具箱 / Toolbox
+<a name="toolbox"></a>
+<h2 align="center">工具箱 / Toolbox</h2>
+
+<div align="center">
 
 这些项目里用到的一些工具，按需取用，边做边学。  
-A few tools behind the projects — learning as I build.
+*A few tools behind the projects — learning as I build.*
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,10 +80,17 @@ A few tools behind the projects — learning as I build.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 贡献记录 / Activity
+</div>
+
+---
+
+<a name="activity"></a>
+<h2 align="center">贡献记录 / Activity</h2>
+
+<div align="center">
 
 把折腾代码的日子，攒成一点点进步 📈  
-Small steps, many commits — here's what I've been building.
+*Small steps, many commits — here's what I've been building.*
 
 <a href="https://github.com/kserksi#contributions">
   <picture>
@@ -84,10 +101,18 @@ Small steps, many commits — here's what I've been building.
 
 [查看 GitHub 完整贡献记录 / View contributions on GitHub →](https://github.com/kserksi#contributions)
 
-## 打个招呼 / Say hi
+</div>
 
-发现了小问题，或者冒出了新点子？欢迎到对应项目的 Issues 聊聊 👀  
-Found a bug or have an idea? Drop by the project's issues — I'd love to hear it.
+---
+
+<a name="say-hi"></a>
+<h2 align="center">打个招呼 / Say hi</h2>
+
+<p align="center">
+  发现了小问题，或者冒出了新点子？<br />
+  <b>欢迎到对应项目的 Issues 聊聊 👀</b><br /><br />
+  <i>Found a bug or have an idea? Drop by the project's issues — I'd love to hear it.</i>
+</p>
 
 ---
 
