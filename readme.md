@@ -26,13 +26,17 @@ A self-hosted web-font subsetting service with a versioned API, browser SDK, and
 
 ### [Pebril](https://github.com/kserksi/Pebril)
 
-面向图像管理、处理与托管的 Go / Rust 项目。目前处于开发早期，已提供服务基础与状态页，暂不支持图像上传。
+面向图像管理、处理与托管的 Go / Rust 项目，目前处于早期开发阶段。
 
-A Go / Rust project for image management, processing, and hosting. Early development: service foundations and a status page are available; image uploading is not yet supported.
+A Go / Rust project for image management, processing, and hosting, currently in early development.
 
 `Go` · `Rust` · `SQLite`
 
-**更多作品 / More:** [AMSR-HTML](https://github.com/kserksi/AMSR-HTML) — 碧蓝档案 ASMR 预览网站，使用 Bootstrap 与 Plyr。 / A Blue Archive ASMR preview site built with Bootstrap and Plyr.
+### [AMSR-HTML](https://github.com/kserksi/AMSR-HTML) · 归档 / Archived
+
+碧蓝档案 ASMR 预览网站，使用 Bootstrap 与 Plyr。项目已归档，计划后续进行完整重构。
+
+A Blue Archive ASMR preview site built with Bootstrap and Plyr. Archived, with a full project rebuild planned.
 
 ## 技术 / Stack
 
