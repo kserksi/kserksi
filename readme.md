@@ -13,6 +13,7 @@ Building self-hosted tools for images and web typography — one idea, one commi
 
 [![Projects](https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](#项目--projects)
 [![Toolbox](https://img.shields.io/badge/Toolbox-0369A1?style=for-the-badge&logoColor=white)](#工具箱--toolbox)
+[![Activity](https://img.shields.io/badge/Activity-0D9488?style=for-the-badge&logo=github&logoColor=white)](#贡献记录--activity)
 [![Say hi](https://img.shields.io/badge/Say_hi-334155?style=for-the-badge&logo=github&logoColor=white)](#打个招呼--say-hi)
 
 </div>
@@ -68,6 +69,20 @@ A few tools behind the projects — learning as I build.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 贡献记录 / Activity
+
+把折腾代码的日子，攒成一点点进步 📈  
+Small steps, many commits — here's what I've been building.
+
+<a href="https://github.com/kserksi#contributions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kserksi&amp;theme=github_dark&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;bg_color=0d1117&amp;chart_color=2dd4bf" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kserksi&amp;theme=github&amp;title_color=0f766e&amp;text_color=334155&amp;bg_color=f8fafc&amp;chart_color=0d9488" width="100%" alt="kserksi 的 GitHub 贡献概览与活动趋势 / GitHub contribution overview and activity trend" />
+  </picture>
+</a>
+
+[查看 GitHub 完整贡献记录 / View contributions on GitHub →](https://github.com/kserksi#contributions)
 
 ## 打个招呼 / Say hi
 
